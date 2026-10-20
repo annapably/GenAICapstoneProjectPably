@@ -1,0 +1,2 @@
+# GenAICapstoneProjectPably
+Preliminary project repository
